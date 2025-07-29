@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Exploring textile as digital interfaces","description":"An ongoing and updated post about explorations on e-textiles with Studio Dabu","created":"2024-07-26","modified":"2025-07-29T01:57:12.398+02:00","tags":["e-textiles","arduino"],"cssclasses":""}
+{"publish":true,"title":"Exploring textile as digital interfaces","description":"An ongoing and updated post about explorations on e-textiles with Studio Dabu","created":"2024-07-26","modified":"2025-07-29T10:35:54.849+02:00","tags":["e-textiles","arduino"],"cssclasses":""}
 ---
 
 
