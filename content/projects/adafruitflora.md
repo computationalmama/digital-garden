@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Exploring textile as digital interfaces","description":"An ongoing and updated post about explorations on e-textiles with Studio Dabu","created":"2024-07-26","modified":"2025-07-29T10:50:22.071+02:00","tags":["e-textiles","arduino"],"cssclasses":""}
+{"publish":true,"title":"Exploring textile as digital interfaces","description":"An ongoing and updated post about explorations on e-textiles with Studio Dabu","created":"2024-07-26","modified":"2025-07-29T10:53:45.337+02:00","tags":["e-textiles","arduino"],"cssclasses":""}
 ---
 
 
@@ -61,3 +61,4 @@ This is the repo with all the tests and libraries for the Adafruit Flora v3 for 
 <video src="https://github.com/user-attachments/assets/b08864ab-df57-4d22-9e33-48c95b74be47
 " width="320" height="240" controls></video>
 
+[[projects/processing-fellowship-interview]]

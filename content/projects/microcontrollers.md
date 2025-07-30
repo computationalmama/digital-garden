@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"prototyping microcontrollers with p5js","created":"2022-02-28","modified":"2025-07-29T10:51:40.080+02:00","tags":["code","microcontrollers","rp2040","raspberry","pi","pico"],"cssclasses":""}
+{"publish":true,"title":"prototyping microcontrollers with p5js","created":"2022-02-28","modified":"2025-07-29T10:53:59.403+02:00","tags":["code","microcontrollers","rp2040","raspberry","pi","pico"],"cssclasses":""}
 ---
 
 Last June (2021), I started getting interested in exploring physical computing after abuot 2-3 years of pure p5js fun! I didn't have a full sense of where to start, but was drawn to the *[Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)*, a new microcontroller launched at the time. It's form and cost were important factors in choosing Pico over the Arduino line of boards. 
@@ -31,3 +31,5 @@ https://youtu.be/-oHTTcG9Ya8
 
 
 Eventually I've progressed the prototype form to a small macropad case (although this wasnt my original intention), its easy to be swayed by the beautiful cases on the internet and build your own. 
+
+[[projects/processing-fellowship-interview]]

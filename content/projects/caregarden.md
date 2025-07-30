@@ -1,5 +1,5 @@
 ---
-{"publish":true,"title":"Care Garden","created":"2023-06-23","modified":"2025-07-29T10:50:29.359+02:00","tags":["code","care"],"cssclasses":""}
+{"publish":true,"title":"Care Garden","created":"2023-06-23","modified":"2025-07-29T10:53:50.471+02:00","tags":["code","care"],"cssclasses":""}
 ---
 
 
@@ -13,3 +13,5 @@ https://youtu.be/Mk8SjzKAEtg?feature=shared&t=846
 [Head over to Care Garden app to try it!](https://care-garden.fly.dev)
 
 Have a look at the Code Repository [here.](https://github.com/computational-mama/code-garden)
+
+[[projects/processing-fellowship-interview]]
